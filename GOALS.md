@@ -24,6 +24,6 @@ Categories:
 - Books
 - Articles
 - Blogs
-- 3rd Party services
+- 3rd Party services and serverless ranking (based on characteristics)
 - Tools
 
